@@ -26,7 +26,7 @@ Here's some words about the book _One Hundred Years_....
 
 [Search for it!](http://www.google.com/) 
 
-[You're **really, really** going to want to see this.](www.kitten.com)
+[You're **really, really** going to want to see this.](http://www.kitten.com)
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 
